@@ -1,0 +1,9 @@
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\bin\Debug\TrafficGeneratorForTest.exe.config
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\bin\Debug\TrafficGeneratorForTest.exe
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\bin\Debug\TrafficGeneratorForTest.pdb
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\obj\Debug\TrafficGeneratorForTest.csprojResolveAssemblyReference.cache
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\obj\Debug\TrafficGeneratorForTest.Form1.resources
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\obj\Debug\TrafficGeneratorForTest.Properties.Resources.resources
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\obj\Debug\TrafficGeneratorForTest.csproj.GenerateResource.Cache
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\obj\Debug\TrafficGeneratorForTest.exe
+D:\wesofproject\wesof\wesof\TrafficGeneratorForTest\obj\Debug\TrafficGeneratorForTest.pdb

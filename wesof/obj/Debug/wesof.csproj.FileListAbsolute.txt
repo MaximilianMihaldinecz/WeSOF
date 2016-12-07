@@ -1,0 +1,12 @@
+D:\wesofproject\wesof\wesof\wesof\bin\Debug\wesof.exe.config
+D:\wesofproject\wesof\wesof\wesof\bin\Debug\wesof.exe
+D:\wesofproject\wesof\wesof\wesof\bin\Debug\wesof.pdb
+D:\wesofproject\wesof\wesof\wesof\obj\Debug\wesof.exe
+D:\wesofproject\wesof\wesof\wesof\obj\Debug\wesof.pdb
+D:\wesofproject\wesof\wesof\wesof\obj\Debug\wesof.csprojResolveAssemblyReference.cache
+D:\PUBLISHEDWESOF\wesof\wesof\bin\Debug\wesof.exe.config
+D:\PUBLISHEDWESOF\wesof\wesof\obj\Debug\wesof.exe
+D:\PUBLISHEDWESOF\wesof\wesof\obj\Debug\wesof.pdb
+C:\Users\Maximilián\Source\Repos\WeSOF\wesof\bin\Debug\wesof.exe.config
+C:\Users\Maximilián\Source\Repos\WeSOF\wesof\obj\Debug\wesof.exe
+C:\Users\Maximilián\Source\Repos\WeSOF\wesof\obj\Debug\wesof.pdb
